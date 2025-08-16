@@ -594,7 +594,7 @@ dependencies = [
 
 [[package]]
 name = "indradb"
-version = "4.0.0"
+version = "5.0.0"
 dependencies = [
  "clap",
  "indradb-lib",
@@ -606,7 +606,7 @@ dependencies = [
 
 [[package]]
 name = "indradb-client"
-version = "4.0.0"
+version = "5.0.0"
 dependencies = [
  "clap",
  "indradb-lib",
@@ -619,7 +619,7 @@ dependencies = [
 
 [[package]]
 name = "indradb-lib"
-version = "4.0.0"
+version = "5.0.0"
 dependencies = [
  "bincode",
  "byteorder",
@@ -645,7 +645,7 @@ dependencies = [
 
 [[package]]
 name = "indradb-plugin-host"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "indradb-lib",
  "rustc_version",
@@ -665,7 +665,7 @@ dependencies = [
 
 [[package]]
 name = "indradb-proto"
-version = "4.0.0"
+version = "5.0.0"
 dependencies = [
  "glob",
  "indradb-lib",

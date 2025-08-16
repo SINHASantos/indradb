@@ -1,6 +1,6 @@
 [package]
 name = "indradb-proto"
-version = "4.0.0"
+version = "5.0.0"
 authors = ["Yusuf Simonson <simonson@gmail.com>"]
 description = "Protobuf/gRPC interfaces for IndraDB"
 homepage = "https://indradb.github.io"
@@ -36,11 +36,11 @@ glob = { version = "0.3.2", optional = true }
 
 [dependencies.indradb-lib]
 path = "../lib"
-version = "4.0.0"
+version = "5.0.0"
 
 [dependencies.indradb-plugin-host]
 path = "../plugins/host"
-version = "0.3.0"
+version = "0.3.1"
 optional = true
 
 [build-dependencies]

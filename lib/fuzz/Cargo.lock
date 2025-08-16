@@ -185,7 +185,7 @@ dependencies = [
 
 [[package]]
 name = "indradb-lib"
-version = "4.0.0"
+version = "5.0.0"
 dependencies = [
  "bincode",
  "byteorder",
